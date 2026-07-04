@@ -1,5 +1,8 @@
+🔍 SQL Murder Mystery — Solved!
+A real SQL investigation using the SQL Murder Mystery database created by Knight Lab at Northwestern University.
+---
 📖 About This Project
-A murder took place in SQL City on January 15, 2018. Using nothing but SQL queries, I was able to narrow down the list of suspects to identify the murderer — and the mastermind who hired them — by following clues across multiple database tables.
+A murder took place in SQL City on January 15, 2018. Using nothing but SQL queries, I tracked down the murderer — and the mastermind who hired them — by following clues across multiple database tables.
 This was my first real SQL project, completed as part of my data analytics training journey documented on LinkedIn under #DataAnalystDiaries.
 ---
 🎯 The Challenge
